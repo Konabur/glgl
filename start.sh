@@ -2,7 +2,7 @@
 export PYTHONUNBUFFERED=true
 
 # Install the requirements
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 
 # Run a glorious Python 3 server
-python3 app.py
+python app.py
